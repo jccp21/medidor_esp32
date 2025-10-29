@@ -1,0 +1,5 @@
+{
+  "name": "ESP32 Temperature Monitor",
+  "description": "A sleek and modern web application to display and visualize real-time temperature measurements from a simulated ESP32 device.",
+  "requestFramePermissions": []
+}
